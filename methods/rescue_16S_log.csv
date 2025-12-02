@@ -1,0 +1,227 @@
+original_species,mapped_species,accession,feature_location,product,sequence_length,search_level,status,ncbi_url,notes
+Accipiter atricapillus,Accipiter atricapillus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Accipiter atricapillus,Accipiter badius,PX112822.1,[<0:>345](+),large subunit ribosomal RNA,345,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PX112822.1,
+Morphnus guianensis,Morphnus guianensis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Morphnus guianensis,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Circus hudsonius,Circus hudsonius,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Circus hudsonius,Circus pygargus,PQ238358.1,[<0:>508](+),large subunit ribosomal RNA,508,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ238358.1,
+Spatula discors,Spatula discors,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Spatula discors,Spatula clypeata,PQ726978.1,[2199:3744](+),16S ribosomal RNA,1545,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ726978.1,
+Chloephaga melanoptera,Chloephaga melanoptera,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Chloephaga melanoptera,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Anas andium,Anas andium,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anas andium,Anas platyrhynchos,PX112823.1,[<0:>351](+),large subunit ribosomal RNA,351,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PX112823.1,
+Tadorna tadornoides,Tadorna tadornoides,PQ723607.1,[1138:2741](+),16S ribosomal RNA,1603,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ723607.1,
+Cygnus columbianus bewickii,Cygnus columbianus bewickii,DQ083161.1,[4182:5789](+),16S ribosomal RNA,1607,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/DQ083161.1,
+Branta bernicla nigricans,Branta bernicla nigricans,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Branta bernicla nigricans,Branta canadensis,PV132446.1,[1143:2725](+),16S ribosomal RNA,1582,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV132446.1,
+Cygnus melancoryphus,Cygnus melancoryphus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Cygnus melancoryphus,Cygnus sumnerensis,PQ723617.1,[1127:2729](+),16S ribosomal RNA,1602,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ723617.1,
+Branta bernicla bernicla,Branta bernicla bernicla,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Branta bernicla bernicla,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Branta hutchinsii,Branta hutchinsii,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Branta hutchinsii,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Aythya valisineria,Aythya valisineria,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Aythya valisineria,Aythya innotata,PV911323.1,[<0:>307](+),large subunit ribosomal RNA,307,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV911323.1,
+Anas capensis,Anas capensis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anas capensis,Anas melleri,PV911318.1,[<0:>307](+),large subunit ribosomal RNA,307,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV911318.1,
+Merganetta armata,Merganetta armata,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Merganetta armata,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Mareca sibilatrix,Mareca sibilatrix,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Mareca sibilatrix,Mareca americana,PQ726984.1,[2216:3745](+),16S ribosomal RNA,1529,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ726984.1,
+Spatula cyanoptera,Spatula cyanoptera,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Spatula cyanoptera,Spatula clypeata,OR243146.1,[1126:2729](+),16S ribosomal RNA,1603,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR243146.1,
+Melanitta nigra,Melanitta nigra,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Melanitta nigra,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Melanitta americana, Melanitta deglandi, Melanitta perspicillata, Melanitta stejnegeri"
+Tribe Aythyini (diving ducks),Tribe Aythyini (diving ducks),,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Tribe Aythyini (diving ducks),,,,,,GENUS_STANDIN,NO_GENUS_HITS,,No genus-level nuccore hits.
+Alopochen aegyptiaca,Alopochen aegyptiaca,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Alopochen aegyptiaca,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Aythya affinis,Aythya affinis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Aythya affinis,Aythya novaeseelandiae,PQ723592.1,[1124:2727](+),16S ribosomal RNA,1603,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ723592.1,
+Anser caerulescens caerulescens,Anser caerulescens caerulescens,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anser caerulescens caerulescens,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Anas fulvigula,Anas fulvigula,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anas fulvigula,Anas platyrhynchos,LC880101.1,[1146:2699](+),16S ribosomal RNA,1553,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/LC880101.1,
+Anas luzonica,Anas luzonica,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anas luzonica,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Anser brachyrhynchus,Anser brachyrhynchus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anser brachyrhynchus,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Branta ruficollis,Branta ruficollis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Branta ruficollis,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Aythya collaris,Aythya collaris,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Aythya collaris,Aythya marila,OR242842.1,[2189:3793](+),16S ribosomal RNA,1604,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242842.1,
+Anser rossii,Anser rossii,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anser rossii,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Mergellus albellus,Mergellus albellus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Mergellus albellus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Anser caerulescens,Anser caerulescens,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anser caerulescens,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Cygnus buccinator,Cygnus buccinator,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Cygnus buccinator,Cygnus sumnerensis,PQ723616.1,[1128:2731](+),16S ribosomal RNA,1603,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ723616.1,
+Chloephaga picta,Chloephaga picta,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Chloephaga picta,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Cygnus columbianus columbianus,Cygnus columbianus columbianus,,,,,DIRECT,ONLY_DUPLICATE_16S_DIRECT,,Only duplicate 16S sequences found at species level; existing species: Cygnus columbianus
+Cygnus columbianus columbianus,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Cygnus atratus, Cygnus cygnus, Cygnus olor"
+Aix sponsa,Aix sponsa,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Aix sponsa,Aix galericulata,KJ169568.1,[1138:2740](+),16S ribosomal RNA,1602,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/KJ169568.1,
+Anas undulata,Anas undulata,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anas undulata,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Cypseloides niger,Cypseloides niger,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Cypseloides niger,Cypseloides fumigatus,NC_034933.1,[1110:2707](+),16S ribosomal RNA,1597,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_034933.1,
+Chroicocephalus serranus,Chroicocephalus serranus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Chroicocephalus serranus,Chroicocephalus saundersi,NC_056775.1,[1109:2711](+),16S ribosomal RNA,1602,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_056775.1,
+Larus belcheri,Larus belcheri,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus belcheri,Larus hyperboreus,OR242975.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242975.1,
+Cepphus grylle,Cepphus grylle,MN356419.1,[1111:2705](+),16S ribosomal RNA,1594,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/MN356419.1,
+Limosa limosa,Limosa limosa,PP737171.1,[1115:2707](+),16S ribosomal RNA,1592,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PP737171.1,
+Chroicocephalus philadelphia,Chroicocephalus philadelphia,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Chroicocephalus philadelphia,Chroicocephalus maculipennis,NC_052812.1,[1106:2702](+),16S ribosomal RNA,1596,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_052812.1,
+Larus californicus,Larus californicus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus californicus,Larus hyperboreus,OR242973.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242973.1,
+Larus canus,Larus canus,OR242965.1,[1142:2706](+),16S ribosomal RNA,1564,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242965.1,
+Sterna striata,Sterna striata,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Sterna striata,Sterna vittata,OR771716.1,[1111:2707](+),16S ribosomal RNA,1596,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR771716.1,
+Thalasseus elegans,Thalasseus elegans,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Thalasseus elegans,Thalasseus bernsteini,PV440435.1,[1111:2707](+),16S ribosomal RNA,1596,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV440435.1,
+Leucophaeus pipixcan,Leucophaeus pipixcan,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Leucophaeus pipixcan,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Larus hyperboreus,Larus hyperboreus,OR242966.1,[1142:2706](+),16S ribosomal RNA,1564,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242966.1,
+Larus glaucescens,Larus glaucescens,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus glaucescens,Larus canus kamtschatschensis,OR242964.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242964.1,
+Leucophaeus modestus,Leucophaeus modestus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Leucophaeus modestus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Larus marinus,Larus marinus,MN122906.1,[1142:2704](+),16S ribosomal RNA,1562,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/MN122906.1,
+Ichthyaetus ichthyaetus,Ichthyaetus ichthyaetus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Ichthyaetus ichthyaetus,Ichthyaetus relictus,NC_023777.1,[1106:2705](+),16S ribosomal RNA,1599,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_023777.1,
+Larus heermanni,Larus heermanni,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus heermanni,Larus canus kamtschatschensis,OR242963.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242963.1,
+Larosterna inca,Larosterna inca,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larosterna inca,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Pagophila eburnea,Pagophila eburnea,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Pagophila eburnea,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Larus fuscus,Larus fuscus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus fuscus,Larus canus kamtschatschensis,OR242962.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242962.1,
+Phalaropus fulicarius,Phalaropus fulicarius,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Phalaropus fulicarius,Phalaropus tricolor,DQ674619.1,[0:1599](+),16S ribosomal RNA,1599,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/DQ674619.1,
+Larus delawarensis,Larus delawarensis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus delawarensis,Larus canus kamtschatschensis,OR242961.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242961.1,
+Xema sabini,Xema sabini,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Xema sabini,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Thalasseus sandvicensis,Thalasseus sandvicensis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Thalasseus sandvicensis,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Larus brachyrhynchus,Larus brachyrhynchus,OR242960.1,[1142:2706](+),16S ribosomal RNA,1564,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242960.1,
+Chroicocephalus novaehollandiae,Chroicocephalus novaehollandiae,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Chroicocephalus novaehollandiae,Chroicocephalus ridibundus,MN122820.1,[1146:2701](+),16S ribosomal RNA,1555,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/MN122820.1,
+Larus schistisagus,Larus schistisagus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Larus schistisagus,Larus brachyrhynchus,OR242958.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242958.1,
+Charadrius nivosus,Charadrius nivosus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Charadrius nivosus,Charadrius dubius,PQ356201.1,[1140:2708](+),16S ribosomal RNA,1568,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ356201.1,
+Sterna hirundinacea,Sterna hirundinacea,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Sterna hirundinacea,Sterna dougallii bangsi,LC541472.1,[4152:5747](+),16S ribosomal RNA,1595,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/LC541472.1,
+Burhinus oedicnemus,Burhinus oedicnemus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Burhinus oedicnemus,Burhinus bistriatus,PQ068721.1,[<0:>575](+),large subunit ribosomal RNA,575,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ068721.1,
+Thalasseus acuflavidus,Thalasseus acuflavidus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Thalasseus acuflavidus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Larus glaucoides thayeri,Larus glaucoides thayeri,,,,,DIRECT,ONLY_DUPLICATE_16S_DIRECT,,Only duplicate 16S sequences found at species level; existing species: Larus glaucoides
+Larus glaucoides thayeri,Larus brachyrhynchus,OR242957.1,[1142:2706](+),16S ribosomal RNA,1564,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242957.1,
+Calidris mauri,Calidris mauri,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Calidris mauri,Calidris alpina pacifica,OR242859.1,[1145:2715](+),16S ribosomal RNA,1570,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242859.1,
+Charadrius nivosus nivosus,Charadrius nivosus nivosus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Charadrius nivosus nivosus,Charadrius dubius,PQ356199.1,[1116:2708](+),16S ribosomal RNA,1592,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ356199.1,
+Anastomus oscitans,Anastomus oscitans,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anastomus oscitans,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Leptoptilos crumenifer,Leptoptilos crumenifer,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Leptoptilos crumenifer,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Falco biarmicus,Falco biarmicus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Falco biarmicus,Falco tinnunculus,LC880099.1,[1146:2719](+),16S ribosomal RNA,1573,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/LC880099.1,
+Falco chicquera,Falco chicquera,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Falco chicquera,Falco sparverius,JQ627249.1,[<0:>582](+),16S ribosomal RNA,582,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/JQ627249.1,
+Phasianus torquatus,Phasianus torquatus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Phasianus torquatus,Phasianus versicolor,LC880102.1,[1120:2723](+),16S ribosomal RNA,1603,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/LC880102.1,
+Meleagris gallopavo domesticus,Meleagris gallopavo domesticus,PP840326.1,[1113:2731](+),16S ribosomal RNA,1618,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PP840326.1,
+Lagopus lagopus scotica,Lagopus lagopus scotica,OR242945.1,[1112:2717](+),16S ribosomal RNA,1605,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR242945.1,
+Alectoris rufa,Alectoris rufa,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Alectoris rufa,Alectoris chukar,PQ622922.1,[<0:>521](+),large subunit ribosomal RNA,521,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ622922.1,
+Chlamydotis undulata,Chlamydotis undulata,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Chlamydotis undulata,Chlamydotis macqueenii,MN356124.1,[1115:2712](+),16S ribosomal RNA,1597,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/MN356124.1,
+Bombycilla cedrorum,Bombycilla cedrorum,KJ909187.1,[1119:2707](+),16S ribosomal RNA,1588,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/KJ909187.1,
+Lonchura atricapilla,Lonchura atricapilla,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Lonchura atricapilla,Lonchura stygia,NC_036408.1,[1121:2713](+),16S ribosomal RNA,1592,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_036408.1,
+Coloeus dauuricus,Coloeus dauuricus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Coloeus dauuricus,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,Genus-level search found only duplicate 16S sequences; existing species: Coloeus monedula
+Agropsar sturninus,Agropsar sturninus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Agropsar sturninus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Sialia sialis,Sialia sialis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Sialia sialis,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Corvus tristis,Corvus tristis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Corvus tristis,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Pica pica (if Eurasian),Pica pica (if Eurasian),PV716264.1,[<0:>109](+),large subunit ribosomal RNA,109,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV716264.1,
+Corvus caurinus,Corvus caurinus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Corvus caurinus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Anthus rufulus,Anthus rufulus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Anthus rufulus,Anthus australis,PQ723582.1,[1111:2708](+),16S ribosomal RNA,1597,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ723582.1,
+Acrocephalus schoenobaenus,Acrocephalus schoenobaenus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Acrocephalus schoenobaenus,Acrocephalus newtoni,PV911316.1,[<0:>310](+),large subunit ribosomal RNA,310,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV911316.1,
+Lanius spp.,Lanius spp.,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Lanius spp.,Lanius collurio,PQ451724.1,[<0:>817](+),large subunit ribosomal RNA,817,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PQ451724.1,
+Hirundinidae spp.,Hirundinidae spp.,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Hirundinidae spp.,Riparia paludicola,PV911391.1,[<0:>307](+),large subunit ribosomal RNA,307,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV911391.1,
+Spizella arborea,Spizella arborea,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Spizella arborea,Spizella atrogularis,FJ236294.1,[1115:2711](+),16S ribosomal RNA,1596,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/FJ236294.1,
+Pelecanus erythrorhynchos,Pelecanus erythrorhynchos,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Pelecanus erythrorhynchos,Pelecanus onocrotalus,PP981507.1,[<0:>547](+),large subunit ribosomal RNA,547,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PP981507.1,
+Ardea herodias,Ardea herodias,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Ardea herodias,Ardea cinerea,LC743625.1,[<0:>226](+),16S ribosomal RNA,226,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/LC743625.1,
+Butorides virescens,Butorides virescens,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Butorides virescens,Butorides striata,PV911327.1,[<0:>306](+),large subunit ribosomal RNA,306,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV911327.1,
+Pelecanus thagus,Pelecanus thagus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Pelecanus thagus,Pelecanus crispus,PP576342.1,[1116:2717](+),16S ribosomal RNA,1601,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PP576342.1,
+Ardeola grayii,Ardeola grayii,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Ardeola grayii,Ardeola bacchus,NC_025921.1,[1118:2713](+),16S ribosomal RNA,1595,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_025921.1,
+Egretta thula,Egretta thula,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Egretta thula,Egretta garzetta,OR757053.1,[1117:2717](+),16S ribosomal RNA,1600,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR757053.1,
+Colymbus nigricollis,Colymbus nigricollis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Colymbus nigricollis,,,,,,GENUS_STANDIN,NO_GENUS_HITS,,No genus-level nuccore hits.
+Aechmophorus clarkii,Aechmophorus clarkii,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Aechmophorus clarkii,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,Genus-level search found only duplicate 16S sequences; existing species: Aechmophorus occidentalis
+Podiceps nigricollis,Podiceps nigricollis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Podiceps nigricollis,Podiceps cristatus,MN356146.1,[1108:2699](+),16S ribosomal RNA,1591,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/MN356146.1,
+Podiceps major,Podiceps major,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Podiceps major,Podiceps auritus,L33389.1,[<0:1187](+),16S ribosomal RNA,1187,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/L33389.1,
+Podiceps grisegena,Podiceps grisegena,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Podiceps grisegena,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Podiceps auritus, Podiceps cristatus"
+Homo sapiens,Homo sapiens,PX591469.1,[1673:3231](+),16S ribosomal RNA,1558,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PX591469.1,
+Puffinus puffinus,Puffinus puffinus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Puffinus puffinus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Fulmarus glacialis,Fulmarus glacialis,MN356131.1,[1120:2757](+),16S ribosomal RNA,1637,DIRECT,DIRECT_16S_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/MN356131.1,
+Procellaria aequinoctialis,Procellaria aequinoctialis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Procellaria aequinoctialis,Procellaria cinerea,AP009191.1,[1003:2591](+),16S ribosomal RNA,1588,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/AP009191.1,
+Ardenna tenuirostris,Ardenna tenuirostris,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Ardenna tenuirostris,Ardenna pacifica,NC_057528.1,[1197:2780](+),16S ribosomal RNA,1583,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_057528.1,
+Ara hybrida,Ara hybrida,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Ara hybrida,Ara militaris,PV131675.1,[<0:>474](+),large subunit ribosomal RNA,474,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV131675.1,
+Spheniscidae spp.,Spheniscidae spp.,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Spheniscidae spp.,Eudyptes chrysolophus,NC_054275.1,[1116:2707](+),16S ribosomal RNA,1591,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_054275.1,
+Athene cunicularia,Athene cunicularia,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Athene cunicularia,Athene superciliaris,PV911322.1,[<0:>307](+),large subunit ribosomal RNA,307,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/PV911322.1,
+Megascops asio,Megascops asio,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Megascops asio,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Strix nebulosa,Strix nebulosa,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Strix nebulosa,Strix aluco,NC_072569.1,[1133:2709](+),16S ribosomal RNA,1576,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/NC_072569.1,
+Megascops choliba,Megascops choliba,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Megascops choliba,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Megascops kennicottii,Megascops kennicottii,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Megascops kennicottii,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Sula leucogaster,Sula leucogaster,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Sula leucogaster,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Gulosus aristotelis,Gulosus aristotelis,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Gulosus aristotelis,,,,,,GENUS_STANDIN,NO_GENUS_HITS,,No genus-level nuccore hits.
+Leucocarbo bougainvillii,Leucocarbo bougainvillii,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Leucocarbo bougainvillii,Leucocarbo bransfieldensis,OR771715.1,[1110:2704](+),16S ribosomal RNA,1594,GENUS_STANDIN,GENUS_STANDIN_FOUND,https://www.ncbi.nlm.nih.gov/nuccore/OR771715.1,
+Nannopterum brasilianus,Nannopterum brasilianus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Nannopterum brasilianus,,,,,,GENUS_STANDIN,NO_GENUS_HITS,,No genus-level nuccore hits.
+Morus bassanus,Morus bassanus,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Morus bassanus,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).
+Sula variegata,Sula variegata,,,,,DIRECT,NO_DIRECT_16S,,No acceptable 16S found at species level (no 16S features or no records).
+Sula variegata,,,,,,GENUS_STANDIN,NO_GENUS_16S,,No acceptable 16S found at genus level (no 16S features or no usable records).

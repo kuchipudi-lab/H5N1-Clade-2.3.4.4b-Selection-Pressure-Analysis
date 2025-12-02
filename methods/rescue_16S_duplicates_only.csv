@@ -1,0 +1,12 @@
+original_species,mapped_species,accession,feature_location,product,sequence_length,search_level,status,ncbi_url,notes
+Melanitta nigra,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Melanitta americana, Melanitta deglandi, Melanitta perspicillata, Melanitta stejnegeri"
+Anser caerulescens caerulescens,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Anser brachyrhynchus,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Anser rossii,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Anser caerulescens,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Anser anser, Anser anser domesticus, Anser cygnoides, Anser cygnoides domesticus, Anser erythropus"
+Cygnus columbianus columbianus,Cygnus columbianus columbianus,,,,,DIRECT,ONLY_DUPLICATE_16S_DIRECT,,Only duplicate 16S sequences found at species level; existing species: Cygnus columbianus
+Cygnus columbianus columbianus,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Cygnus atratus, Cygnus cygnus, Cygnus olor"
+Larus glaucoides thayeri,Larus glaucoides thayeri,,,,,DIRECT,ONLY_DUPLICATE_16S_DIRECT,,Only duplicate 16S sequences found at species level; existing species: Larus glaucoides
+Coloeus dauuricus,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,Genus-level search found only duplicate 16S sequences; existing species: Coloeus monedula
+Aechmophorus clarkii,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,Genus-level search found only duplicate 16S sequences; existing species: Aechmophorus occidentalis
+Podiceps grisegena,,,,,,GENUS_STANDIN,ONLY_DUPLICATE_16S_GENUS,,"Genus-level search found only duplicate 16S sequences; existing species: Podiceps auritus, Podiceps cristatus"
