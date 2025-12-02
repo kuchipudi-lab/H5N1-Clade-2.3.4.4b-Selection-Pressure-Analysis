@@ -1,0 +1,70 @@
+
+Methods
+Host Species Dataset
+A total of 378 unique host species were identified from GISAID metadata associated with global H5N1 and related influenza A virus submissions. Species names were cleaned, deduplicated, and standardized to canonical scientific binomials. This curated list served as the complete target set for mitochondrial 16S rRNA sequence retrieval and subsequent phylogenetic analyses.
+Phase 1: Automated Extraction of Direct Species-Level 16S rRNA Sequences
+Retrieval Pipeline
+Initial extraction of mitochondrial 16S rRNA sequences was conducted using a custom Python workflow (super_16S_exact.py). The script queried NCBI nuccore for each species in the 378-species list and performed:
+1. Taxonomic normalization
+   - Retrieval of taxonomic IDs, canonical names, GenBank synonyms, and historical nomenclature.
+   - Expansion into multiple name variants to maximize search sensitivity.
+2. Hierarchical search strategies
+   For every name variant, four search strategies were executed:
+   - MITOGENOME_FEATURE: complete mitochondrial genomes annotated with rRNA features
+   - DIRECT_16S_GENE: records explicitly annotated as “16S ribosomal RNA”
+   - RRNL_GENE: records annotated as rrnL or “large subunit ribosomal RNA”
+   - RIBOSOMAL_MITO: mitochondrial ribosomal annotations with broad keyword matching
+3. Feature validation and extraction
+   Annotated features were accepted only if:
+   - They corresponded to 16S/rrnL
+   - Extracted sequence length fell within biologically plausible thresholds
+   - Ambiguous nucleotide fraction was below filtering limits
+   - Gene boundaries were clearly annotated
+4. Best-candidate scoring and selection
+   Candidates were ranked by a scoring function prioritizing:
+   - Full-length annotations
+   - High ACGT content
+   - Mitochondrial origin (NC_*, NR_*, NZ_* accessions)
+   - Consistency of annotation wording
+Execution events, decisions, accepted accessions, and rejected candidates were documented in progress_log_direct.txt.
+
+Phase 1 Output
+Of the 378 species screened, 258 species (68.3%) yielded a valid and unique 16S rRNA sequence. These sequences were compiled into combined_16S.fasta and served as the starting set for Phase 2.
+Phase 2: Targeted Rescue of Missing 16S rRNA Sequences
+For the remaining 120 species with no direct 16S record, a second-stage rescue workflow was performed using rescue_16S_from_ncbi.py.
+
+2.1 Loading Existing Sequences and Duplicate Prevention
+The script first imported the 258 Phase-1 sequences and constructed a sequence hash map to prevent the inclusion of duplicate nucleotide strings or variant accessions producing identical sequences. This ensured strict one-sequence-per-species representation.
+
+2.2 Direct Species-Level Rescue
+For each missing species, the rescue pipeline generated species-level search terms including:
+- Full species names with and without mitochondrion filters
+- Species truncated to two-word binomials (subspecies collapsed)
+
+Each search retrieved up to 50 NCBI records. Valid 16S features were extracted using the same biological criteria as Phase 1.
+
+2.3 Genus-Level Stand-In Strategy
+Species lacking a direct 16S rRNA record triggered genus-level fallback:
+- Genus-wide mitochondrial searches
+- Evaluation of all candidate congeners
+- Acceptance only if sequence was non-duplicate and annotated as 16S/rrnL
+
+Accepted stand-in sequences were labeled using the format:
+OriginalSpecies_from_StandInSpecies
+
+2.4 Failure and Duplicate Handling
+Species for which:
+- Only duplicate sequences were found were logged to rescue_16S_duplicates_only.csv.
+- No 16S feature was found at species or genus level were listed in rescue_16S_no_hits.txt.
+
+A complete record of queries, accepted candidates, accessions, and decisions is provided in rescue_16S_log.csv.
+
+Final Dataset for Phylogenetic Analysis
+Phase 2 successfully recovered 76 additional unique 16S rRNA sequences. Combined with the initial 258 sequences, this resulted in a final dataset of 334 unique mitochondrial 16S rRNA sequences spanning the 378 host species identified from GISAID.
+
+These sequences were used for downstream:
+- Multiple sequence alignment (MAFFT)
+- Maximum-likelihood phylogenetic inference (IQ-TREE)
+- Visualization and metadata mapping (iTOL)
+- Host-clade and virus-clade comparative evolutionary analyses
+
