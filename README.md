@@ -18,10 +18,4 @@ The Analysis -
 -   **RELAX** method to compare the intensity of selective forces acting on the 2.3.4.4b clade and reference clades.
 ____________________________________________________________________________________________________________________________________
 ### Authors:
-Aniket Naik, Yoshita Jadalanki
-
-----------------------------------
-```diff
-+ Aniket Naik | aniketsnaik7@gmail.com | ann279@pitt.edu
-+ 
-````
+Elizabeth Gilbride, Yoshitha Jaladanki, Aniket Naik, Santhamani Ramasamy, Shubhada Chothe, Sergei L. Kosakovsky Pond, and Suresh V. Kuchipudi
