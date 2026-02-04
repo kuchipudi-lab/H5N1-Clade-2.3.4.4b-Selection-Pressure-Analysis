@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 To identify the selection pressures affecting the H5N1 2.3.4.4b clade's genome.
 
-- The *Dataset* provided is after eliminating all the poor quality sequences and is meant to be used as the input for _Cawlign_, the first step in the pipeline.
+- The dataset provided (_Input_Files_) is after eliminating all the poor quality sequences and is meant to be used as the input for _Cawlign_, the first step in the pipeline.
 
 Creating the Tree for the Analysis -
 -   Running **Cawlign** on all the sequences to perform codon-level amino-acid level alignments directly
