@@ -19,7 +19,6 @@ The Analysis -
 
 ____________________________________________________________________________________________________________________________________
 
-### Link to Selection Pressure Analysis : https://colab.research.google.com/drive/1LJB1KDeIr8ZQ6h8mtcOAvGScX54xtigY
 ____________________________________________________________________________________________________________________________________
 ### Authors:
 Elizabeth Gilbride, Yoshitha Jaladanki, Aniket Naik, Santhamani Ramasamy, Shubhada Chothe, Sergei L. Kosakovsky Pond, and Suresh V. Kuchipudi
