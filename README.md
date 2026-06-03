@@ -12,12 +12,12 @@ Creating the Tree for the Analysis -
 
 The Analysis -
 -   **Branch-Site Unrestricted Statistical Test for Episodic Diversification BUSTED[S]** method is to seek gene-wide evidence of episodic diversifying selection (EDS) in the focal clade.
--   **Fixed Effects Likelihood (FEL)** applied to internal branches labeled 2.3.4.4b to identify individual sites evolving non-neutrally
+-   **Fixed Effects Likelihood (FEL)** method is used to identify individual codons that have been subject to pervasive diversifying or purifying selection. This method is suitable for small to medium-sized datasets and assumes that selection pressure at a site is constant along the entire phylogeny. FEL directly estimates nonsynonymous (dN) and synonymous (dS) substitution rates for each site and uses a likelihood ratio test to infer selection.
 -   **Mixed Effects Model of Evolution (MEME) method** applied to internal branches labeled 2.3.4.4b to identify individual sites evolving subject to episodic diversifying positive selection
 -   **Contrast-FEL** applied to internal branches labeled 2.3.4.4b or others to identify individual sites that have significantly different ω (i.e., evolve subject to different selective pressures) between the focal (2.3.4.4b) and reference clades.
 -   **RELAX** method to compare the intensity of selective forces acting on the 2.3.4.4b clade and reference clades.
--   **Single-Likelihood Ancestor Counting (SLAC)** method applied to internal branches labeled 2.3.4.4b to identify individual codon sites evolving under pervasive positive or negative selection using a combination of maximum-likelihood ancestral reconstruction and counting-based estimates of synonymous (dS) and nonsynonymous (dN) substitutions.
--   **Fast Unconstrained Bayesian AppRoximation (FUBAR)** method applied to internal branches labeled 2.3.4.4b to identify individual codon sites evolving under pervasive diversifying or purifying selection using a Bayesian framework that infers synonymous (dS) and nonsynonymous (dN) substitution rates on a per-site basis across the phylogeny.
+-   **Single-Likelihood Ancestor Counting (SLAC)** method is used to identify individual codon sites subject to diversifying or purifying selection. SLAC is a counting-based method that is computationally faster than FEL, making it suitable for larger datasets, though it can be less accurate for highly divergent sequences.
+-   **Fast Unconstrained Bayesian AppRoximation (FUBAR)** method applied to internal branches labeled 2.3.4.4b to identify individual codon sites evolving under pervasive positive selection using a Bayesian framework that infers synonymous (dS) and nonsynonymous (dN) substitution rates on a per-site basis across the phylogeny.
 
 ____________________________________________________________________________________________________________________________________
 
