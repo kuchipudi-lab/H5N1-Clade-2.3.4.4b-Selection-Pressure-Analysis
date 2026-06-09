@@ -1,0 +1,62 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Mammalian Orders
+COLOR	#8B4513
+LEGEND_TITLE	Mammalian Orders
+LEGEND_SHAPES	1	1	1	1	1	1	1
+LEGEND_COLORS	#CD853F	#A0522D	#BC8F8F	#D2B48C	#DEB887	#8B4513	#F4A460
+LEGEND_LABELS	Artiodactyla	Carnivora	Didelphimorphia	Lagomorpha	Perissodactyla	Primates	Rodentia
+STRIP_WIDTH	25
+MARGIN	10
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+
+DATA
+Vicugna_pacos	#CD853F
+Lagenorhynchus_acutus	#A0522D
+Tursiops_truncatus	#A0522D
+Phocoena_spinipinnis	#A0522D
+Bos_taurus	#CD853F
+Bos_grunniens	#CD853F
+Capra_hircus	#CD853F
+Sus_scrofa	#CD853F
+Ursus_americanus	#A0522D
+Ursus_maritimus	#A0522D
+Lontra_felina	#A0522D
+Enhydra_lutris	#A0522D
+Mustela_erminea	#A0522D
+Mustela_putorius_furo	#A0522D
+Mustela_nivalis	#A0522D
+Neogale_vison	#A0522D
+Pekania_pennanti	#A0522D
+Procyon_lotor	#A0522D
+Nasua_nasua	#A0522D
+Mephitis_mephitis	#A0522D
+Mirounga_angustirostris	#A0522D
+Mirounga_leonina	#A0522D
+Hydrurga_leptonyx	#A0522D
+Halichoerus_grypus	#A0522D
+Phoca_vitulina	#A0522D
+Arctocephalus_australis	#A0522D
+Otaria_flavescens	#A0522D
+Canis_latrans	#A0522D
+Canis_lupus_familiaris	#A0522D
+Nyctereutes_procyonoides	#A0522D
+Vulpes_vulpes	#A0522D
+Lynx_rufus	#A0522D
+Puma_concolor	#A0522D
+Lynx_lynx	#A0522D
+Felis_catus	#A0522D
+Panthera_pardus	#A0522D
+Panthera_leo	#A0522D
+Panthera_tigris	#A0522D
+Leopardus_geoffroyi	#A0522D
+Leptailurus_serval	#A0522D
+Suricata_suricatta	#A0522D
+Viverricula_indica	#A0522D
+Equus_caballus	#DEB887
+Didelphis_virginiana	#BC8F8F
+Mus_musculus	#F4A460
+Ochotona_princeps	#D2B48C
+Macaca_mulatta	#8B4513
+Homo_sapiens_from_Homo_sapiens	#8B4513

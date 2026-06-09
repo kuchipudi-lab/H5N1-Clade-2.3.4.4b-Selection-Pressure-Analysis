@@ -1,0 +1,19 @@
+DATASET_IMAGE
+SEPARATOR COMMA
+
+DATASET_LABEL,Mammal silhouettes
+COLOR,#000000
+
+MARGIN,0
+
+# ID,position,size_factor,rotation,hshift,vshift,URL
+DATA
+Bos_taurus,-1,0.25,0,0,0,https://images.phylopic.org/images/dc5c561e-e030-444d-ba22-3d427b60e58a/vector.svg
+Bos_grunniens,-1,0.25,0,0,0,https://images.phylopic.org/images/dc5c561e-e030-444d-ba22-3d427b60e58a/vector.svg
+Ursus_americanus,-1,0.25,0,0,0,https://images.phylopic.org/images/369a7880-4798-41bf-851a-ec5da17fafa3/vector.svg
+Ursus_maritimus,-1,0.25,0,0,0,https://images.phylopic.org/images/35fbff4d-c0e6-4c53-9f27-f0a6ecbe7720/vector.svg
+Canis_latrans,-1,0.25,0,0,0,https://images.phylopic.org/images/113d2520-9f92-456f-b305-52ee3986172d/vector.svg
+Canis_lupus_familiaris,-1,0.25,0,0,0,https://images.phylopic.org/images/113d2520-9f92-456f-b305-52ee3986172d/vector.svg
+Felis_catus,-1,0.25,0,0,0,https://images.phylopic.org/images/1edbe9ff-c453-47f3-9174-2e1f9c5983de/vector.svg
+Equus_caballus,-1,0.25,0,0,0,https://images.phylopic.org/images/85d95128-912c-427a-9542-138e1dbf5651/vector.svg
+Homo_sapiens_from_Homo_sapiens,-1,0.25,0,0,0,https://images.phylopic.org/images/9c6af553-390c-4bdd-baeb-6992cbc540b1/vector.svg
